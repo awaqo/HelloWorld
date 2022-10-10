@@ -1,0 +1,3 @@
+package ObjectNClasses
+
+interface Apel {}
